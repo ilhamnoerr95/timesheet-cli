@@ -1,0 +1,6 @@
+/bin/
+/timesheet
+.DS_Store
+*.xlsx
+*.pdf
+*.bak
